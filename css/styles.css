@@ -1,0 +1,78 @@
+/* Body */
+body {
+    background: #f6f6fa;
+    padding: 40px 40px 40px 40px;
+    font-family: "Montserrat", sans-serif;
+}
+
+/* Wrapper */
+.wrapper {
+    background: #ffffff;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+/* Main content */
+.main-content {
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-right: 40px;
+    padding-bottom: 80px;
+    box-sizing: border-box;
+}
+
+/* Sidebar #e0ebfe;*/
+.sidebar {
+    background: #aaf8dd;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    box-sizing: border-box;
+    width: 370px;
+}
+
+/* Sidebar content */
+.sidebar-content {
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+/* стиль заголовку контактів */
+.contacts-title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: normal;
+    color: #161d2a;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+/* стиль E, C у контактах */
+.contacts-type {
+
+    font-weight: 700;
+    font-size: 14px;
+    color: #161d2a;
+    line-height: 24px;
+    margin-right: 8px;
+}
+
+.contacts-link {
+    color: #2979ff;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: underline;
+}
+
+/* відстань від С до Е */
+.contacts-item {
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+/* відступ від контактів до техскілів */
+.contacts-container {
+    margin-bottom: 40px;
+}
